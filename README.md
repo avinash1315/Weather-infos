@@ -1,2 +1,2 @@
-# Movie-infos
+# Weather-infos
 Created with CodeSandbox
